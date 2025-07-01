@@ -1,0 +1,20 @@
+.headerdiv{
+    display:flex;
+    color:purple;
+    align-items: center;
+}
+.title{
+    border:2px solid purple;
+     color:purple;
+     text-align: center;
+}
+.contact  {
+margin-left: 100px;
+}
+.contact p{
+    padding:0px 10px;
+}
+table,th,td{
+    border:2px double purple;
+}
+    
